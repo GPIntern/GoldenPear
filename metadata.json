@@ -2,6 +2,6 @@
   "name": "Test Node",
   "website": "https://www.x.com/",
   "description": "This is a test node",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/GPIntern/GoldenPear/main/A_black_image.jpg",
   "twitter": ""
 }
